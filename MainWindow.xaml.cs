@@ -59,7 +59,6 @@ namespace Krakout_11B {
                 && labdaY < jatekosY + jatekos.Height
                 ) {
                 ySeb = -5;
-                lbPontszam.Content = ++pontszam;
             }
 
             foreach (var tegla in jatekter.Children.OfType<Image>())

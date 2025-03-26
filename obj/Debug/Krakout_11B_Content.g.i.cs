@@ -8,6 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("tramb.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("istockphoto-517188688-612x612.jpg")]
 
 

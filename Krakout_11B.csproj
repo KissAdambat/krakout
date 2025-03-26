@@ -106,5 +106,11 @@
   <ItemGroup>
     <Resource Include="tramb.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="IMG_9208-scaled.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="istockphoto-517188688-612x612.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
