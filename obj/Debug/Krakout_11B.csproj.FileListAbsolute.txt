@@ -1,0 +1,15 @@
+C:\Users\Kissa\Source\Repos\Krakout_11B\Krakout_11B\bin\Debug\Krakout_11B.exe.config
+C:\Users\Kissa\Source\Repos\Krakout_11B\Krakout_11B\bin\Debug\Krakout_11B.exe
+C:\Users\Kissa\Source\Repos\Krakout_11B\Krakout_11B\bin\Debug\Krakout_11B.pdb
+C:\Users\Kissa\Source\Repos\Krakout_11B\Krakout_11B\obj\Debug\Krakout_11B.csproj.AssemblyReference.cache
+C:\Users\Kissa\Source\Repos\Krakout_11B\Krakout_11B\obj\Debug\MainWindow.g.cs
+C:\Users\Kissa\Source\Repos\Krakout_11B\Krakout_11B\obj\Debug\App.g.cs
+C:\Users\Kissa\Source\Repos\Krakout_11B\Krakout_11B\obj\Debug\Krakout_11B_MarkupCompile.cache
+C:\Users\Kissa\Source\Repos\Krakout_11B\Krakout_11B\obj\Debug\Krakout_11B_MarkupCompile.lref
+C:\Users\Kissa\Source\Repos\Krakout_11B\Krakout_11B\obj\Debug\MainWindow.baml
+C:\Users\Kissa\Source\Repos\Krakout_11B\Krakout_11B\obj\Debug\Krakout_11B.g.resources
+C:\Users\Kissa\Source\Repos\Krakout_11B\Krakout_11B\obj\Debug\Krakout_11B.Properties.Resources.resources
+C:\Users\Kissa\Source\Repos\Krakout_11B\Krakout_11B\obj\Debug\Krakout_11B.csproj.GenerateResource.cache
+C:\Users\Kissa\Source\Repos\Krakout_11B\Krakout_11B\obj\Debug\Krakout_11B.csproj.CoreCompileInputs.cache
+C:\Users\Kissa\Source\Repos\Krakout_11B\Krakout_11B\obj\Debug\Krakout_11B.exe
+C:\Users\Kissa\Source\Repos\Krakout_11B\Krakout_11B\obj\Debug\Krakout_11B.pdb
